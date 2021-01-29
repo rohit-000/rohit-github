@@ -19,5 +19,6 @@ git checkout master
 git checkout SHAkey
 git checkout HEAD~(numbers of vertions to go backs)
 git reset --hard HEAD
+ rohit
 
 
