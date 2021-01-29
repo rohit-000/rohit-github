@@ -1,0 +1,23 @@
+touch filename
+twd
+mkdie 
+cd 
+echo 
+cat filename:to print the file name\
+git config --global user.name "rohit-000"
+git config --global user.email "drohitviswanadh@gmail.com"
+git config user.email
+ls -a;
+git init
+git status
+git add file name or git add .
+git commit -m "first verstion"
+git log
+git log --oneline
+git commit -m "our message"
+git checkout master
+git checkout SHAkey
+git checkout HEAD~(numbers of vertions to go backs)
+git reset --hard HEAD
+
+
